@@ -1,0 +1,31 @@
+.container {
+    margin: 10%;
+}
+
+.stockTitleContainer {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 10px 0 10px;
+}
+
+.stockContainer {
+    composes: stockTitleContainer;
+    cursor: pointer;
+}
+
+h3 {
+    color: #A3A7AB;
+}
+
+.textSuccess {
+    color: 	#5cb85c;
+}
+
+.textDanger {
+    color: #d9534f;
+}
+
+.name {
+    color: 	#428bca;
+    font-weight: 800;
+}
