@@ -1,2 +1,2 @@
 # SimpleStock
-React app
+	SimpleSock is a simple React app exercise.
