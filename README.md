@@ -1,2 +1,2 @@
 # SimpleStock
-	SimpleSock is a simple React app exercise.
+		--API no longer working--
